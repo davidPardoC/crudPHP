@@ -1,0 +1,37 @@
+input{
+    border-radius: 20px;
+    border: black solid 1px;
+    text-align: center;
+    width: 44%;
+    height: 40;
+    margin: 5;
+}
+.guardar{
+    background-color: aquamarine;
+    border: none;
+    width: 44%;
+    margin:10;
+    height: 50;
+    font-size: 30;
+    color: azure;
+    border-radius: 30px;
+    -webkit-text-stroke: 1px black;
+    cursor: pointer;
+}
+header{
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 60;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.guardar:hover {
+    background-color: #38DBF6; /* Green */
+    color: white;
+  }

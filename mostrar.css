@@ -1,0 +1,16 @@
+td {
+    border: 1px solid #ddd;
+  padding: 8px;
+  }
+  table {
+    border-collapse: collapse;
+    font-family: monospace;
+    font-size: 20;
+  }
+#head{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(0, 163, 109);
+    color: white;
+  }
